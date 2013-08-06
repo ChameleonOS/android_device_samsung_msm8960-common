@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2012-2013 The CyanogenMod Project
 
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -16,38 +15,42 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="mdnie_scenario_entries">
-        <item>Caméra (Par défaut)</item>
-        <item>Vidéo</item>
-        <item>Vidéo chaude</item>
-        <item>Video froide</item>
         <item>UI</item>
-        <item>Navigation</item>
+        <item>Video</item>
+        <item>Fotoaparát</item>
+        <item>Navigace</item>
         <item>Galerie</item>
         <item>VT</item>
+        <item>Vynechat</item>
     </string-array>
+
     <string-array name="mdnie_mode_entries">
-        <item>Standard (Par défaut)</item>
-        <item>Dynamique</item>
-        <item>Naturel</item>
-        <item>Vidéo</item>
+        <item>Automatický</item>
+        <item>Standardní</item>
+        <item>Dynamický</item>
+        <item>Přirozený</item>
+        <item>Film</item>
     </string-array>
+
     <string-array name="panel_gamma_entries">
-        <item>2.2 (Par défaut)</item>
+        <item>2.2 (výchozí)</item>
         <item>1.9</item>
     </string-array>
+
     <string-array name="touchscreen_sensitivity_entries">
         <item>10</item>
         <item>20</item>
         <item>30</item>
-        <item>50 (Par défaut)</item>
+        <item>50 (výchozí)</item>
         <item>70</item>
         <item>100</item>
     </string-array>
+
     <string-array name="panel_color_temp_entries" >
-        <item>Froide</item>
-        <item>Fraiche</item>
-        <item>Normale</item>
-        <item>Tiède</item>
-        <item>Chaude</item>
+        <item>Studené</item>
+        <item>Chladné</item>
+        <item>Neutrální</item>
+        <item>Teplé</item>
+        <item>Horké</item>
     </string-array>
 </resources>
